@@ -8,7 +8,9 @@
             <nuxt-link to="/project">
                 <p class="cursor-pointer">Project</p>
             </nuxt-link>
-            <p class="cursor-pointer">About</p>
+            <nuxt-link to="/about">
+                <p class="cursor-pointer">About</p>
+            </nuxt-link>
         </div>
     </nav>
 </template>
