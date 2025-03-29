@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --font-poppins: 'poppins'
+}
+
+body {
+    background-color: oklch(0.928 0.006 264.531);
+}
